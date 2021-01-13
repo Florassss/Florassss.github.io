@@ -1,28 +1,21 @@
 ---
 layout: resume
 ---
-## Currently
-
-Current Position Description
-
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2020 - 2022`
+__Cornell University__
+Dual Master of Science in Information Science and Health Technology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+__University of California, San Diego__ `2016 - 2020`
+__B.S in Mathematics and Computer Science__ 
+__B.A in Economics__ 
+Minor in Cognitive Science 
 
-## Awards
+## Professional Experience
+Google Research
+- Advisor
 
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
